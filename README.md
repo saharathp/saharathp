@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saharathp&label=Profile%20views&color=0e75b6&style=flat" alt="saharathp" /> </p
 
- -🌱 I’m currently learning **Devops course**<br>
+ -🌱 I’m currently learning **Devops course.**<br>
  -📫 How to reach me **thapasahara772@gmail.com**<br>
  -⚡ Fun fact **I think I am calm.**<br>
 
