@@ -2,9 +2,9 @@
 <h3 align="center">A Learner</h3>
 <p align="left"> 
 
- -🌱 I’m currently learning **Computer Science.**<br>
+ -🌱 I’m a **Computer Science** student.<br>
  -📫 How to reach me **thapasahara772@gmail.com**<br>
- -⚡ Fun fact **I think I am calm.**<br> </p>
+ -⚡ Fun fact **This girl is on fire.**<br> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
